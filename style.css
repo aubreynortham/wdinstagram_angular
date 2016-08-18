@@ -1,0 +1,11 @@
+img {
+  max-width: 500px;
+  height: auto;
+}
+body, a {
+  color: white;
+  font-family: sans-serif;
+  background-color: rgb(12, 22, 91);
+  width: 80%;
+  margin: 0 auto;
+}
